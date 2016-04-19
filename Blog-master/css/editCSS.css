@@ -1,0 +1,167 @@
+h1
+{
+	font-family: sans-serif;
+	font-size: 40px;
+	font-weight: normal;	
+	text-align: center;
+}
+body
+{
+	background-image: url("images/background1.jpg");
+    background-size: cover;
+}
+#banner
+{
+	background-image: url("images/blog1.png");
+	height: 270px;
+    width: 560px;
+	margin: auto;
+}
+#tweet
+{
+	background-color: rgba(255, 255, 255, 0.9);
+	box-shadow: inset 0px 0px 10px 0px #333333;
+	padding: 5px;
+	margin-left: 20px;
+	margin-right: 20px;
+	border-radius: 5px;
+	font-family: sans-serif;
+}
+h3
+{
+	font-family: sans-serif;
+	font-size: 40px;
+	text-align: center;
+	color: #FFFFFF;
+	font-weight: normal;
+    margin-right: 80px;
+}
+#container
+{
+	width: 900px;
+	margin: 0 auto;
+	box-shadow: 0 0 200px black;
+    background-color: rgba(0, 0, 0, 0.7);
+	padding-bottom: 10px;
+	padding-top: 15px;
+}
+#edit-container{
+    width: 400px;
+	margin: 0 auto; 
+    padding-left: 250px;
+    padding-right: 200px; 
+	box-shadow: 0 0 200px black;
+    background-color: rgba(0, 0, 0, 0.7);
+	padding-bottom: 10px;
+	padding-top: 15px;
+}
+#Header
+{
+	box-shadow: 0 0 10px #333333;
+	margin: 20px;
+	padding-bottom: 40px;
+	padding-right: 10px;
+	padding-left: 10px;
+	padding-top: 5px;
+	background-color: rgba(300, 300, 300, 0.2);
+
+}
+.untertitel
+{
+	font-weight: bold;
+	font-size: 18px;
+}
+.text
+{
+	font-weight: normal;
+	font-size: 16px;
+}
+.linksposition
+{
+	font-family: sans-serif;
+	font-size: 20px;
+	text-decoration: none;
+	color: #FFFFFF;
+}
+.links
+{
+	font-family: sans-serif;
+	font-size: 20px;
+	text-decoration: none;
+	float: right;
+	color: #FFFFFF;
+    margin-left: -80px;
+}
+#footer
+{
+	color: #FFFFFF;
+	text-align: center;
+	font-family: sans-serif;
+	font-size: 16px;
+}
+
+.sort{
+
+    padding: 137px;
+    text-align: center;
+    margin-left: 136px;
+    padding-top: 0px;
+}
+
+.tab
+{
+	width: 350px;	
+	height: 32px;
+	font-family: sans-serif;
+	color: #080808;
+	text-indent: 10px;
+	background-color: rgba(255, 255, 255, 1);
+	border: none;
+	box-shadow: 0 0 1px #000000;
+}
+.textarea
+{
+	resize: none;
+	font-family: sans-serif;
+	color: #080808;
+	text-indent: 10px;
+	background-color: rgba(255, 255, 255, 0.9);
+	width: 350px;
+}
+
+.category{
+    resize: none;
+	font-family: sans-serif;
+	color: #080808;
+	text-indent: 10px;
+	background-color: rgba(white);
+	width: 353px;
+    height: 32px;       
+}
+
+.buttons
+{
+	border-style: none;
+	width: 350px;
+	height: 40px;
+	font-family: sans-serif;
+	font-size: 18px;
+}
+
+#posten
+{
+	text-align: center;
+}
+.postbutton
+{
+	text-align: center;
+}
+.link
+{
+	text-decoration: none;
+	font-size: 18px;
+}
+#bottom
+{
+	padding: 5px;
+}
